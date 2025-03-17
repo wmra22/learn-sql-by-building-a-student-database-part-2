@@ -70,3 +70,4 @@ touch student_info.sh
 chmod +x student_info.sh
 ./student_info.sh
 ./student_info.sh
+./student_info.sh
